@@ -1,10 +1,12 @@
 <h1 align="center">Gaming-Hub</h1>
 <p align="center">A complete gaming website where a user can easily play multiple games online </p>
-Buit With:
-*HTML
-*CSS
-*Bootstrap
-*JavaScript
+<p>Buit With:</p>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>JavaScript</li>
+</ul>
 
 <h3 align="center">Project Screenshots:</h3>
 ![Screenshot (33)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/20c2fdc0-c95a-443c-bd33-73c5d1868ce8)
