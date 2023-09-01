@@ -18,7 +18,7 @@
 .carGame{
     width:100%;
     height:100vw;
-    background: #000;
+    background: #ffffff;
     /*background: url(back.jpg);*/
     background-repeat:no-repeat;
     background-size:100% 100%;
@@ -33,7 +33,7 @@
 .gameArea{
     height:100vh;
     width:400px;
-    background: #dbdbdb;
+    background: #1e1e1e;
     margin:auto;
     position:relative;
     overflow:hidden;
