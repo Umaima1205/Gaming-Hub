@@ -9,19 +9,14 @@
 </ul>
 
 <h3 align="center">Project Screenshots:</h3>
-![Screenshot (11)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/b2fc3d4a-e579-4432-a315-e1a3140398d3)
-![Screenshot (12)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/b0c19d57-9cd9-44d0-816e-39c3730d75de)
-![Screenshot (15)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/a14a2b0f-9fbf-4bf7-894a-cc24a8735311)
-![Screenshot (16)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/58ca7b67-d602-43c5-930d-34a265d261ba)
-![Screenshot (9)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/11b9a0f9-48a8-49d7-b9ec-e82e7c070dd8)
-![Screenshot (10)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/f9909e5b-d880-4f94-93de-3034c3da34b2)
-![Screenshot (13)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/b568e776-f8e3-4dad-9303-9c7b4cf027b0)
-![Screenshot (14)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/31fa751a-2ab2-4ede-b63b-4a800e3204ae)
-![Screenshot (18)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/fffe7542-dc9d-4395-81c0-6a168b75ed6f)
-![Screenshot (19)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/5664892c-5814-4350-b7ae-145d75f624e8)
-![Screenshot (22)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/5fd19529-65e1-41fc-a75d-411dfda64823)
-![Screenshot (23)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/756a0d7e-c21f-4a5e-a096-36a4df350a0a)
 
+![Screenshot (12)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/46ea72c2-c559-471e-a6df-385ba007fe7c)
+![Screenshot (11)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/bfd4efd3-73a1-4439-aa91-c4d9a3d67dc5)
+![Screenshot (19)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/70f8f09d-d3f6-4cbe-9387-bada6572148e)
+![Screenshot (21)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/cb9b72d6-13c0-4e00-aadc-1accdb1c395a)
+![Screenshot (20)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/d35c8868-7ebf-4703-94bd-2ffe8e14c76a)
+![Screenshot (23)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/01cfe789-30ea-4ca6-ba8d-9775dcf906f6)
+![Screenshot (26)](https://github.com/Umaima1205/Gaming-Hub/assets/112200777/651eb9c8-bfdf-4c7d-a5eb-57ac1ae5e87b)
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
